@@ -1,0 +1,8 @@
+SelectedConditions Vertical
+marginTop 24
+Text
+text Selected Conditions
+
+List
+from <
+SelectedCondition

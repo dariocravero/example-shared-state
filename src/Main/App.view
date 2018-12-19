@@ -1,0 +1,9 @@
+App Vertical
+marginLeft 4
+marginRight 4
+ConditionsList
+from <conditions
+toggleSelection <
+
+SelectedConditions
+from <selectedConditions
